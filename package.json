@@ -1,9 +1,8 @@
 {
-  "name": "@azz/prettier-config",
+  "name": "webel-prettier-config",
   "version": "1.0.0",
-  "description": "My personal Prettier config",
+  "description": "Webel Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:azz/prettier-config.git",
-  "author": "Lucas Azzola <lucas@azzola.dev>",
-  "license": "MIT"
+  "repository": "git@github.com:Webel-Technologies/prettier-config.git"
+  
 }
