@@ -1,5 +1,5 @@
 {
-  "name": "webel-prettier-config",
+  "name": "@webel-technologies/webel-prettier-config",
   "version": "1.0.0",
   "description": "Webel Prettier config",
   "main": "index.json",
