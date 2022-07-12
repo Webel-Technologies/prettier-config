@@ -14,7 +14,7 @@ $ yarn add --dev @azz/prettier-config
 
 ```jsonc
 {
-  // ...
-  "prettier": "@azz/prettier-config"
+    // ...
+    "prettier": "@azz/prettier-config"
 }
 ```

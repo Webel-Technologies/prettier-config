@@ -1,8 +1,7 @@
 {
-  "name": "@webel-technologies/webel-prettier-config",
-  "version": "1.0.0",
-  "description": "Webel Prettier config",
-  "main": "index.json",
-  "repository": "git@github.com:Webel-Technologies/prettier-config.git"
-  
+    "name": "@webel-technologies/webel-prettier-config",
+    "version": "1.1.0",
+    "description": "Webel Prettier config",
+    "main": "index.json",
+    "repository": "git@github.com:Webel-Technologies/prettier-config.git"
 }
